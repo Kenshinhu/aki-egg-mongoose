@@ -16,7 +16,7 @@
   "dependencies": {
     "loadsh": "0.0.4",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.26"
+    "moment-timezone": "^0.5.35"
   },
   "devDependencies": {
     "autod": "^3.0.1",
